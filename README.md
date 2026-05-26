@@ -1,12 +1,11 @@
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<title> Carta kellys </title>
+<title>Carta</title>
 
-<style>
+<<style>
   body{
     margin:0;
     padding:0;
@@ -44,10 +43,12 @@
     border-radius:15px;
   }
 
+  /* FUENTE SOLO PARA LA CARTA */
   .content{
     font-size:18px;
     line-height:1.7;
     white-space:pre-wrap;
+    font-family: "Lucida Handwriting", cursive;
   }
 
   .button-container{
@@ -89,9 +90,9 @@
     <div class="paper">
 
       <div class="content">
-      
-  HOLA KELLYS. 
+  HOLAAA KELLYSsss. 
 
+ 
 
   HACE TIEMPO HE QUERIDO EXPRESAR UNOS BREVES SENTIMIENTOS, EN PLAN DE AMIGOS, YA QUE SABES QUE NO SOY DE MUCHA EXPRESION, PERO NO ES ALGO QUE DEBA DECIR MUCHO, PERO TE QUIERO, GENUINAMENTENTE. ACTUALMENTE ME HE SENTIDO COMO DEBE SER, UN PUNTO DE NO RETORNO Y CON ESO QUE SUELO TENER UN PROBLEMA CON LA NOSTALGIA. . . PERO BUENO ES LO QUE ME HA LLEVADO A PENSAR COMO HE TRATADO A LA GENTE Y A MIS MEJORES AMIGAS EN SUS MOMENTOS, PERO YO AHORA TENIENDOTE Y SIENDO MAS CONCIENTE PUES NO ME GUSTARIA QUE PASARA LO MISMO VERDAD, PERO QUIEN SABE QUE PUEDA PASAR Y NO DEPENDA DE MI, QUIEN SABEE, A LO QUE VOY ES QUE TE APRECIO MUCHO, TE RESPETO, SOBRE TODO PORQUE HE VISTO CUANTO HAS PSADO Y SIN ENBARGO HAS SEGUIDO, SIEMPRE HAS AVANZADO, TE HAS SUPERADO CADA DIA Y TE ADMIRO POR ELLO.  
 
@@ -115,7 +116,7 @@ ATTE: TU AMIGO Y VECINO, EL HOMBRE ARAÑA dx. IVAN OR.
       <!-- BOTÓN CON URL -->
       <div class="button-container">
         <a class="btn" href="https://youtu.be/dQw4w9WgXcQ?si=RaLXHgqHhfZwQGQ2" target="_blank">
-          Pd2: no hubo tiempo de hacerte tu video pero tqm.
+          P2: no hubo tiempo de hacerte tu video pero tqm.
         </a>
       </div>
 
